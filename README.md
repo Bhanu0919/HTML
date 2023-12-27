@@ -1,4 +1,4 @@
-# Frontend
+# HTML
 Basic Html Website of a Restaurent
 
 
